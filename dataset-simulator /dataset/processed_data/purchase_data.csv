@@ -1,0 +1,101 @@
+purchase_ID,Product_name,Pricing,Commission,Revenue,Payment_Method,Status,Order_Type,City,Latitude,Longitude,Source,Brand,Category,Created_at
+234827fbeb,Dell Laptop,1307.85,57.19,74795.94,Nequi,USER_ERROR,ONLINE,Cali,3.4288,-76.5375,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-19 17:55:15
+7840009738,Dell Laptop,1627.49,173.74,282760.11,Cash,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1778,-75.5914,Instagram,Placeholder Brand,Placeholder Category,2023-12-21 17:55:16
+4d40558e26,Nintendo Switch,377.38,167.88,63354.55,Credit Card,FAILED_CHECKOUT,ONLINE,Medellín,6.1981,-75.5734,Twitter,Placeholder Brand,Placeholder Category,2023-12-27 17:55:16
+1fc4c5b6d6,Dell Laptop,469.19,185.79,87170.81,Daviplata,FAILED_CHECKOUT,ONLINE,Bucaramanga,7.0724,-73.1053,Twitter,Placeholder Brand,Placeholder Category,2024-01-12 17:55:16
+b2c48859e8,Lenovo Laptop,1891.72,115.37,218247.74,PSE,USER_ERROR,ONLINE,Barranquilla,11.004,-74.8355,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-16 17:55:16
+42fac731e3,PlayStation,553.41,153.38,84882.03,PSE,COMPLETED,ONLINE,Bucaramanga,7.0999,-73.1073,Facebook,Placeholder Brand,Placeholder Category,2023-12-19 17:55:17
+f50b38dda0,Nintendo Switch,265.02,117.15,31047.09,Nequi,COMPLETED,IN_STORE,Barranquilla,10.9906,-74.7888,Organic,Placeholder Brand,Placeholder Category,2023-12-20 17:55:17
+bfe0168a3e,Dell Laptop,1952.83,143.38,279996.77,PSE,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1633,-75.6053,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-20 17:55:17
+48ca06754c,Nintendo Switch,1061.19,161.48,171360.96,PSE,COMPLETED,IN_STORE,Medellín,6.1981,-75.5734,Organic,Placeholder Brand,Placeholder Category,2023-12-22 17:55:18
+6a11eb22e3,Xbox,571.39,162.45,92822.31,Cash,FAILED_CHECKOUT,ONLINE,Bucaramanga,7.0999,-73.1073,Influencer_2,Placeholder Brand,Placeholder Category,2023-12-25 17:55:18
+7e164efbac,Dell Laptop,781.74,28.0,21888.72,Credit Card,COMPLETED,ONLINE,Bogotá,4.662,-74.1347,Instagram,Placeholder Brand,Placeholder Category,2024-01-12 17:55:18
+c3760f7313,PlayStation,1655.79,45.25,74924.5,Nequi,FRAUD,ONLINE,Cali,3.4149,-76.5404,Instagram,Placeholder Brand,Placeholder Category,2024-01-10 17:55:19
+60e481ea64,Nintendo Switch,1881.03,22.48,42285.55,PSE,COMPLETED,ONLINE,Bogotá,4.6516,-74.1263,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-22 17:55:19
+de0e16285f,Lenovo Laptop,748.17,93.21,69736.93,Credit Card,COMPLETED,ONLINE,Bucaramanga,7.0724,-73.1053,Twitter,Placeholder Brand,Placeholder Category,2023-12-16 17:55:20
+bfabf6aefc,Lenovo Laptop,1337.8,123.13,164723.31,Nequi,FAILED_API_RESPONSE,ONLINE,Barranquilla,10.9906,-74.7888,Instagram,Placeholder Brand,Placeholder Category,2023-12-13 17:55:20
+aedc1acc2d,Dell Laptop,1120.8,132.91,148965.53,Credit Card,USER_ERROR,ONLINE,Cali,3.4149,-76.5404,Twitter,Placeholder Brand,Placeholder Category,2023-12-17 17:55:20
+7f4352e3e2,Dell Laptop,1634.97,171.0,279579.87,Daviplata,COMPLETED,ONLINE,Cali,3.4164,-76.5475,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-26 17:55:21
+60b5853677,Dell Laptop,1953.72,21.82,42630.17,PSE,FAILED_CHECKOUT,ONLINE,Bucaramanga,7.0999,-73.1073,Influencer_1,Placeholder Brand,Placeholder Category,2023-12-18 17:55:21
+3683798297,Xbox,434.82,73.31,31876.65,Cash,FRAUD,ONLINE,Medellín,6.1778,-75.5914,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-16 17:55:21
+0c2bee319a,Dell Laptop,1976.92,57.07,112822.82,Daviplata,COMPLETED,ONLINE,Bogotá,4.6476,-74.1019,Instagram,Placeholder Brand,Placeholder Category,2023-12-30 17:55:22
+67652cfb99,Xbox,273.93,117.45,32173.08,PSE,COMPLETED,IN_STORE,Medellín,6.1633,-75.6053,Organic,Placeholder Brand,Placeholder Category,2024-01-03 17:55:22
+4e58867cd5,HP Laptop,1230.49,40.42,49736.41,Credit Card,COMPLETED,IN_STORE,Cali,3.4149,-76.5404,Organic,Placeholder Brand,Placeholder Category,2023-12-27 17:55:22
+6f7fd30381,Xbox,1200.63,112.79,135419.06,PSE,FRAUD,ONLINE,Bucaramanga,7.0724,-73.1053,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-09 17:55:23
+b311122e38,Xbox,717.44,68.37,49051.37,Credit Card,FRAUD,ONLINE,Bogotá,4.6476,-74.1019,Facebook,Placeholder Brand,Placeholder Category,2023-12-22 17:55:23
+f10d4ff2f4,HP Laptop,1980.64,24.56,48644.52,Credit Card,FAILED_CHECKOUT,ONLINE,Cali,3.4288,-76.5375,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-18 17:55:23
+5a975812ed,Dell Laptop,1066.29,70.2,74853.56,Nequi,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1633,-75.6053,Facebook,Placeholder Brand,Placeholder Category,2024-01-10 17:55:24
+cb42ebda5d,HP Laptop,1047.39,144.68,151536.39,Cash,FAILED_CHECKOUT,ONLINE,Bogotá,4.6476,-74.1019,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-17 17:55:24
+9466095125,HP Laptop,436.44,194.55,84909.4,Nequi,COMPLETED,ONLINE,Medellín,6.1633,-75.6053,Instagram,Placeholder Brand,Placeholder Category,2024-01-08 17:55:24
+cbd21785d5,Xbox,1557.69,44.59,69457.4,PSE,FRAUD,ONLINE,Barranquilla,10.9906,-74.7888,Facebook,Placeholder Brand,Placeholder Category,2023-12-31 17:55:24
+ebc718521e,PlayStation,623.16,105.36,65656.14,Credit Card,COMPLETED,IN_STORE,Bogotá,4.662,-74.1347,Organic,Placeholder Brand,Placeholder Category,2024-01-08 17:55:24
+aef3be413d,HP Laptop,1578.1,95.32,150424.49,Credit Card,COMPLETED,ONLINE,Bogotá,4.6516,-74.1263,Influencer_1,Placeholder Brand,Placeholder Category,2024-01-09 17:55:25
+8508c11fa9,Lenovo Laptop,1712.39,140.4,240419.56,Credit Card,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1778,-75.5914,Twitter,Placeholder Brand,Placeholder Category,2023-12-17 17:55:25
+ac18c90d41,Xbox,1082.97,187.79,203370.94,Credit Card,COMPLETED,IN_STORE,Cali,3.4149,-76.5404,Organic,Placeholder Brand,Placeholder Category,2024-01-04 17:55:25
+cb69352de7,Lenovo Laptop,1782.19,90.03,160450.57,Cash,COMPLETED,ONLINE,Bogotá,4.6476,-74.1019,Facebook,Placeholder Brand,Placeholder Category,2024-01-02 17:55:26
+a31860f177,Lenovo Laptop,993.07,47.22,46892.77,Nequi,FRAUD,ONLINE,Barranquilla,11.0142,-74.8275,Facebook,Placeholder Brand,Placeholder Category,2023-12-13 17:55:26
+84e36dd9c5,HP Laptop,1368.85,152.6,208886.51,Credit Card,USER_ERROR,ONLINE,Cali,3.4164,-76.5475,Instagram,Placeholder Brand,Placeholder Category,2024-01-11 17:55:26
+ad862c7867,PlayStation,255.52,66.12,16894.98,PSE,COMPLETED,IN_STORE,Medellín,6.1778,-75.5914,Organic,Placeholder Brand,Placeholder Category,2023-12-16 17:55:27
+8610247ef2,Xbox,841.51,124.28,104582.86,Credit Card,COMPLETED,ONLINE,Barranquilla,11.0142,-74.8275,Instagram,Placeholder Brand,Placeholder Category,2024-01-10 17:55:27
+d27b62e656,Nintendo Switch,1746.21,44.31,77374.57,Daviplata,COMPLETED,IN_STORE,Bogotá,4.6516,-74.1263,Organic,Placeholder Brand,Placeholder Category,2023-12-20 17:55:27
+7ad00caa1c,PlayStation,1157.53,166.32,192520.39,Daviplata,COMPLETED,ONLINE,Bucaramanga,7.0724,-73.1053,Influencer_2,Placeholder Brand,Placeholder Category,2023-12-19 17:55:28
+6950032943,Lenovo Laptop,1782.64,137.18,244542.56,PSE,FAILED_CHECKOUT,ONLINE,Bogotá,4.6476,-74.1019,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-21 17:55:28
+a0b77f46ce,Nintendo Switch,1634.31,54.47,89020.87,Daviplata,FAILED_CHECKOUT,ONLINE,Barranquilla,10.9906,-74.7888,Facebook,Placeholder Brand,Placeholder Category,2024-01-09 17:55:28
+9316099497,Lenovo Laptop,1086.34,157.52,171120.28,Cash,COMPLETED,ONLINE,Bogotá,4.6516,-74.1263,Facebook,Placeholder Brand,Placeholder Category,2023-12-22 17:55:28
+3f0b0e256b,PlayStation,1770.5,182.73,323523.46,Daviplata,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1981,-75.5734,Influencer_2,Placeholder Brand,Placeholder Category,2023-12-14 17:55:28
+e7f87f7013,HP Laptop,1827.92,100.54,183779.08,Nequi,COMPLETED,ONLINE,Bogotá,4.662,-74.1347,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-13 17:55:29
+032f3b733b,HP Laptop,824.83,49.67,40969.31,Cash,FAILED_CHECKOUT,ONLINE,Bucaramanga,7.0999,-73.1073,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-01 17:55:29
+1371dbee2c,PlayStation,1917.14,70.7,135541.8,Credit Card,COMPLETED,ONLINE,Barranquilla,11.004,-74.8355,Twitter,Placeholder Brand,Placeholder Category,2023-12-23 17:55:29
+47e5e2b229,Lenovo Laptop,246.82,60.46,14922.74,Daviplata,COMPLETED,IN_STORE,Medellín,6.1633,-75.6053,Organic,Placeholder Brand,Placeholder Category,2024-01-05 17:55:30
+7cef9abd93,Lenovo Laptop,1151.52,59.67,68711.2,Nequi,FAILED_CHECKOUT,ONLINE,Barranquilla,11.004,-74.8355,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-05 17:55:30
+af4f4138d5,Xbox,1839.29,107.54,197797.25,Daviplata,COMPLETED,ONLINE,Cali,3.4164,-76.5475,Instagram,Placeholder Brand,Placeholder Category,2023-12-16 17:55:30
+fc58e267bf,PlayStation,366.15,182.03,66650.28,Daviplata,FRAUD,ONLINE,Bogotá,4.662,-74.1347,Influencer_2,Placeholder Brand,Placeholder Category,2023-12-22 17:55:31
+6ff833a869,PlayStation,740.92,27.07,20056.7,PSE,FRAUD,ONLINE,Bogotá,4.6516,-74.1263,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-07 17:55:31
+5c1dfbf2dd,Lenovo Laptop,1649.3,130.2,214738.86,PSE,FAILED_API_RESPONSE,ONLINE,Medellín,6.1633,-75.6053,Influencer_3,Placeholder Brand,Placeholder Category,2024-01-12 17:55:31
+892976ec0b,Nintendo Switch,1011.94,46.37,46923.66,PSE,COMPLETED,ONLINE,Cali,3.4149,-76.5404,Instagram,Placeholder Brand,Placeholder Category,2024-01-05 17:55:32
+6b726104c7,Lenovo Laptop,1521.17,94.3,143446.33,Nequi,FAILED_API_RESPONSE,ONLINE,Bucaramanga,7.0999,-73.1073,Facebook,Placeholder Brand,Placeholder Category,2023-12-25 17:55:32
+8b28431667,Xbox,642.43,137.15,88109.27,PSE,COMPLETED,ONLINE,Medellín,6.1778,-75.5914,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-28 17:55:32
+056b01b662,Nintendo Switch,1577.06,143.12,225708.83,Daviplata,FRAUD,ONLINE,Bogotá,4.6516,-74.1263,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-06 17:55:32
+7b240b3ffe,Nintendo Switch,692.25,78.79,54542.38,Credit Card,USER_ERROR,ONLINE,Bogotá,4.662,-74.1347,Twitter,Placeholder Brand,Placeholder Category,2023-12-14 17:55:33
+16667e8571,HP Laptop,1752.25,152.05,266429.61,PSE,FAILED_API_RESPONSE,ONLINE,Barranquilla,11.004,-74.8355,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-30 17:55:33
+54c993a693,Nintendo Switch,330.64,24.31,8037.86,Credit Card,USER_ERROR,ONLINE,Bucaramanga,7.0724,-73.1053,Twitter,Placeholder Brand,Placeholder Category,2024-01-03 17:55:33
+34012dadaa,Dell Laptop,1906.35,107.35,204646.67,Nequi,COMPLETED,ONLINE,Bucaramanga,7.0724,-73.1053,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-10 17:55:34
+416fd920de,HP Laptop,261.26,69.6,18183.7,Daviplata,COMPLETED,ONLINE,Cali,3.4164,-76.5475,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-27 17:55:34
+e73c1e67a1,Dell Laptop,340.25,10.56,3593.04,PSE,COMPLETED,ONLINE,Bogotá,4.6516,-74.1263,Influencer_3,Placeholder Brand,Placeholder Category,2024-01-08 17:55:35
+d5a9e2cf53,Dell Laptop,371.46,147.9,54938.93,Credit Card,COMPLETED,IN_STORE,Barranquilla,11.0142,-74.8275,Organic,Placeholder Brand,Placeholder Category,2023-12-22 17:55:35
+e26ca770d6,Xbox,1394.11,65.78,91704.56,Nequi,INSUFFICIENT_FUNDS,ONLINE,Bucaramanga,7.0999,-73.1073,Instagram,Placeholder Brand,Placeholder Category,2023-12-30 17:55:36
+1ef568f075,Xbox,583.93,167.78,97971.78,Nequi,COMPLETED,IN_STORE,Cali,3.4164,-76.5475,Organic,Placeholder Brand,Placeholder Category,2024-01-10 17:55:36
+65ac5b8d28,PlayStation,554.07,101.37,56166.08,Cash,COMPLETED,ONLINE,Bogotá,4.662,-74.1347,Influencer_2,Placeholder Brand,Placeholder Category,2024-01-09 17:55:36
+b4d388873a,Lenovo Laptop,1228.47,86.58,106360.93,Daviplata,FAILED_API_RESPONSE,ONLINE,Bucaramanga,7.0999,-73.1073,Facebook,Placeholder Brand,Placeholder Category,2023-12-23 17:55:37
+4080484c0d,Xbox,1067.58,84.14,89826.18,Nequi,FRAUD,ONLINE,Cali,3.4288,-76.5375,Influencer_2,Placeholder Brand,Placeholder Category,2024-01-08 17:55:37
+08a9c1dbaa,Dell Laptop,1120.49,198.16,222036.3,Cash,COMPLETED,IN_STORE,Medellín,6.1981,-75.5734,Organic,Placeholder Brand,Placeholder Category,2023-12-19 17:55:37
+296aa85266,Nintendo Switch,793.28,103.97,82477.32,Daviplata,COMPLETED,IN_STORE,Medellín,6.1981,-75.5734,Organic,Placeholder Brand,Placeholder Category,2024-01-06 17:55:38
+cfc01806c7,HP Laptop,376.69,95.21,35864.65,Daviplata,COMPLETED,IN_STORE,Cali,3.4149,-76.5404,Organic,Placeholder Brand,Placeholder Category,2023-12-21 17:55:38
+43f794c17e,Xbox,1591.03,62.94,100139.43,Cash,USER_ERROR,ONLINE,Barranquilla,11.0142,-74.8275,Facebook,Placeholder Brand,Placeholder Category,2023-12-14 17:55:38
+69afba3227,Xbox,949.57,89.55,85033.99,Cash,COMPLETED,IN_STORE,Cali,3.4149,-76.5404,Organic,Placeholder Brand,Placeholder Category,2024-01-05 17:55:38
+0957a68abf,HP Laptop,837.33,95.89,80291.57,Credit Card,INSUFFICIENT_FUNDS,ONLINE,Cali,3.4164,-76.5475,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-01 17:55:38
+f07771d34a,HP Laptop,398.74,170.81,68108.78,Credit Card,FAILED_API_RESPONSE,ONLINE,Bogotá,4.6476,-74.1019,Influencer_1,Placeholder Brand,Placeholder Category,2023-12-26 17:55:39
+325b87bc3c,Nintendo Switch,1210.28,21.72,26287.28,Cash,INSUFFICIENT_FUNDS,ONLINE,Bucaramanga,7.0999,-73.1073,Influencer_1,Placeholder Brand,Placeholder Category,2023-12-13 17:55:39
+fe99426d16,Lenovo Laptop,411.98,86.29,35549.75,Daviplata,FRAUD,ONLINE,Bucaramanga,7.0999,-73.1073,Facebook,Placeholder Brand,Placeholder Category,2024-01-09 17:55:39
+7ab1ccfd43,Lenovo Laptop,807.23,13.88,11204.35,PSE,COMPLETED,ONLINE,Medellín,6.1778,-75.5914,Influencer_1,Placeholder Brand,Placeholder Category,2024-01-06 17:55:40
+33df2a8761,Nintendo Switch,237.42,107.39,25496.53,Daviplata,FAILED_API_RESPONSE,ONLINE,Barranquilla,11.0142,-74.8275,Twitter,Placeholder Brand,Placeholder Category,2023-12-22 17:55:40
+c7a2a92e01,Xbox,1990.33,45.34,90241.56,Cash,INSUFFICIENT_FUNDS,ONLINE,Barranquilla,10.9906,-74.7888,Instagram,Placeholder Brand,Placeholder Category,2024-01-07 17:55:41
+9bae0187f1,Nintendo Switch,1304.96,19.03,24833.39,Credit Card,INSUFFICIENT_FUNDS,ONLINE,Medellín,6.1981,-75.5734,Influencer_1,Placeholder Brand,Placeholder Category,2023-12-14 17:55:41
+0958d09ff5,PlayStation,1945.88,105.64,205562.76,Nequi,FAILED_API_RESPONSE,ONLINE,Cali,3.4288,-76.5375,Influencer_3,Placeholder Brand,Placeholder Category,2024-01-10 17:55:41
+1642dea667,Nintendo Switch,1030.0,144.45,148783.5,Cash,USER_ERROR,ONLINE,Bogotá,4.6516,-74.1263,Influencer_1,Placeholder Brand,Placeholder Category,2023-12-18 17:55:42
+9ff3012267,Nintendo Switch,1632.61,57.9,94528.12,Daviplata,FRAUD,ONLINE,Bogotá,4.6476,-74.1019,Influencer_4,Placeholder Brand,Placeholder Category,2024-01-03 17:55:42
+ac82d1d670,Xbox,1806.67,73.27,132374.71,Credit Card,FAILED_CHECKOUT,ONLINE,Barranquilla,11.004,-74.8355,Twitter,Placeholder Brand,Placeholder Category,2023-12-20 17:55:42
+5392ac3450,Dell Laptop,273.64,86.75,23738.27,Cash,FAILED_CHECKOUT,ONLINE,Bogotá,4.662,-74.1347,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-30 17:55:43
+18e19e6344,PlayStation,1484.47,22.81,33860.76,Nequi,INSUFFICIENT_FUNDS,ONLINE,Bucaramanga,7.0724,-73.1053,Facebook,Placeholder Brand,Placeholder Category,2023-12-23 17:55:43
+8b6ad420f4,Xbox,1700.32,151.08,256884.35,PSE,INSUFFICIENT_FUNDS,ONLINE,Barranquilla,11.0142,-74.8275,Twitter,Placeholder Brand,Placeholder Category,2023-12-24 17:55:43
+567dcda3bb,HP Laptop,367.84,97.73,35949.0,Nequi,USER_ERROR,ONLINE,Bucaramanga,7.0724,-73.1053,Instagram,Placeholder Brand,Placeholder Category,2023-12-14 17:55:43
+a8a26150ec,Dell Laptop,638.29,67.25,42925.0,Credit Card,USER_ERROR,ONLINE,Bucaramanga,7.0724,-73.1053,Facebook,Placeholder Brand,Placeholder Category,2023-12-26 17:55:44
+1ac983e579,Lenovo Laptop,614.02,69.12,42441.06,Credit Card,COMPLETED,IN_STORE,Bogotá,4.6476,-74.1019,Organic,Placeholder Brand,Placeholder Category,2024-01-02 17:55:44
+525c59256d,HP Laptop,1673.69,109.13,182649.79,PSE,INSUFFICIENT_FUNDS,ONLINE,Cali,3.4288,-76.5375,Influencer_3,Placeholder Brand,Placeholder Category,2023-12-23 17:55:44
+ec1ea7ec81,Dell Laptop,261.89,23.65,6193.7,Credit Card,COMPLETED,ONLINE,Cali,3.4149,-76.5404,Influencer_2,Placeholder Brand,Placeholder Category,2023-12-19 17:55:45
+5f68553dc0,Xbox,517.77,117.33,60749.95,Credit Card,FAILED_API_RESPONSE,ONLINE,Bogotá,4.662,-74.1347,Influencer_2,Placeholder Brand,Placeholder Category,2024-01-08 17:55:45
+c38ed55d77,Nintendo Switch,1936.39,54.64,105804.35,Cash,USER_ERROR,ONLINE,Cali,3.4288,-76.5375,Instagram,Placeholder Brand,Placeholder Category,2023-12-22 17:55:45
+cb60eb1d72,HP Laptop,945.53,146.78,138784.89,PSE,FAILED_CHECKOUT,ONLINE,Bogotá,4.6516,-74.1263,Influencer_4,Placeholder Brand,Placeholder Category,2023-12-13 17:55:45
+9f3f6c1f8e,PlayStation,799.49,102.75,82147.6,Daviplata,INSUFFICIENT_FUNDS,ONLINE,Bogotá,4.662,-74.1347,Instagram,Placeholder Brand,Placeholder Category,2023-12-20 17:55:46
+14781a9e58,Xbox,1385.09,39.98,55375.9,PSE,FAILED_API_RESPONSE,ONLINE,Cali,3.4164,-76.5475,Facebook,Placeholder Brand,Placeholder Category,2023-12-30 17:55:46
+47f2121d9e,Dell Laptop,1840.77,59.21,108991.99,Daviplata,COMPLETED,ONLINE,Medellín,6.1633,-75.6053,Influencer_1,Placeholder Brand,Placeholder Category,2024-01-08 17:55:46
