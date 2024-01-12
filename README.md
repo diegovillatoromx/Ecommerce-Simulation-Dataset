@@ -4,7 +4,7 @@ This project is dedicated to generating a high-fidelity simulated dataset for an
 ```css
 /dataset-simulator 
 │
-├── /data
+├── /dataset
 │   ├── raw_data/               # Folder for unprocessed data
 │   └── processed_data/         # Folder for processed data
 │
