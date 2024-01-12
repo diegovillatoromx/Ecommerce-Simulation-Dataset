@@ -4,18 +4,19 @@ This project is dedicated to generating a high-fidelity simulated dataset for an
 ## Overview
 The dataset encompasses a variety of features, including:
 
-Transactional data for computer and video game purchases
-Customer interaction data with various touchpoints (organic, paid, and influencer-driven)
-Simulated financials, such as pricing, commissions, and revenue
-Geographic distribution of sales across major cities
-Multiple payment method scenarios
-Order statuses reflecting a realistic customer journey
+- Transactional data for computer and video game purchases
+- Customer interaction data with various touchpoints (organic, paid, and influencer-driven)
+- Simulated financials, such as pricing, commissions, and revenue
+- Geographic distribution of sales across major cities
+- Multiple payment method scenarios
+- Order statuses reflecting a realistic customer journey.
+
 This data is invaluable for:
 
-Data analysts and scientists looking to practice data wrangling, exploration, and visualization
-Data engineers who need to architect data pipelines and storage solutions
-Machine learning practitioners requiring transactional data for predictive modeling
-Ecommerce strategists analyzing market trends and consumer behavior
+- Data analysts and scientists looking to practice data wrangling, exploration, and visualization
+- Data engineers who need to architect data pipelines and storage solutions
+- Machine learning practitioners requiring transactional data for predictive modeling
+- Ecommerce strategists analyzing market trends and consumer behavior
 
 
 ## Features
