@@ -25,10 +25,10 @@ This data is invaluable for:
 - *`Tests`*: A suite of tests to ensure data integrity and consistency.
 - *`Data Samples`*: Sample datasets for quick testing and reference.
 
-## Usage
+## Usage
 Whether you're looking to test out a new data analysis tool, benchmark database performance, or simulate data pipelines in a cloud environment, Ecommerce-Simulation-Dataset provides you with the starting point. You can scale the data volume as per your requirements, from a few hundred to millions of records.
 
-## Contribution
+## Contribution
 Contributions are welcome! If you have ideas on how to enhance the dataset, optimize the generation process, or extend the data model, please feel free to fork this repository, make your changes, and submit a pull request.
 
 
