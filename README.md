@@ -19,10 +19,10 @@ Ecommerce strategists analyzing market trends and consumer behavior
 
 
 ## Features
-`*Data Generation Scripts*`: Automated scripts to generate fresh, customizable datasets.
-`*Notebooks*`: Jupyter notebooks that document the data generation process, including data exploration and preliminary analysis.
-`*Tests*`: A suite of tests to ensure data integrity and consistency.
-`*Data*` Samples: Sample datasets for quick testing and reference.
+- *`Data Generation Scripts`*: Automated scripts to generate fresh, customizable datasets.
+- *`Notebooks`*: Jupyter notebooks that document the data generation process, including data exploration and preliminary analysis.
+- *`Tests`*: A suite of tests to ensure data integrity and consistency.
+- *`Data Samples`*: Sample datasets for quick testing and reference.
 
 ## Usage
 Whether you're looking to test out a new data analysis tool, benchmark database performance, or simulate data pipelines in a cloud environment, Ecommerce-Simulation-Dataset provides you with the starting point. You can scale the data volume as per your requirements, from a few hundred to millions of records.
